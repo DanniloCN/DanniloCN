@@ -16,3 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanniloCN&show_icons=true)
+
+<a target="_blank" href="https://www.linkedin.com/in/dannilo-carlos-58801b200/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5581986857035">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/da2nilocn/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:dannilocarlos@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://fb.com/Dannilo.Carloos">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
