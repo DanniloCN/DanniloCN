@@ -2,10 +2,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dannilo-carlos-58801b200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/Dannilo.Carloos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/da2nilocn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="http://discord.com/channels/@me/601568851133464618" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord"width="40" /></a>
+<a href="https://linkedin.com/in/dannilo-carlos-58801b200/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/Dannilo.Carloos" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/da2nilocn/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="http://discord.com/channels/@me/601568851133464618" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord"width="40" /></a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5581986857035"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="Whatsapp" height="30" width="40px" /></a> 
 <a target="_blank" href="mailto:dannilocarlos@gmail.com"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40px" /></a>
 </p>
