@@ -10,7 +10,6 @@
 <a target="_blank" href="mailto:dannilocarlos@gmail.com"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40px" /></a>
 </p>
 
-- 📘 I am currently studying in Porto Digital State Technical School, with an integrated course in System Development with an emphasis on new technologies.
 - 🌱 I am currently learning Typescript, React and NodeJS.
 - 😄 Pronouns: He / Him ♂.
 - ⚡ Fun fact: I'm passionate about music, psychology and games!
